@@ -11,7 +11,7 @@ function setCart(c) {
 
 function addToCart(item) {
 var itemName = {name: ("n")};
-var itemPrice = {price: ("p")};
+var itemPrice = {price: ('p')};
 
 }
 
