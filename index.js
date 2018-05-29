@@ -10,8 +10,8 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-var itemName = {name: ()};
-var itemPrice = {price: ()};
+var itemName = {name: ("n")};
+var itemPrice = {price: ("p")};
 
 }
 
